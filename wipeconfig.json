@@ -1,0 +1,8 @@
+{
+	"rustServerDirectory": "E:\\rusttest\\",
+	"serverCFGDirectory": "E:\\rusttest\\server\\rusttest\\cfg\\",
+	"saveAndMapDirectory": "E:\\rusttest\\server\\rusttest\\",
+	"steamCMDPath": "E:\\steamcmd\\steamcmd.exe",
+	"rustServiceName": "RustServ",
+	"checkForUpdateFrequency": "10"
+}
